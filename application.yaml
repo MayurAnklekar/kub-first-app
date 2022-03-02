@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/MayurAnklekar/kub-first-app.git
     targetRevision: HEAD
-    path: kub-first-app
+    path: application.yaml
   destination:
     server: https://kubernetes.default.svc
     namespace: myapp
