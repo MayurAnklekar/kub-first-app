@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
         - name: second-node
-          image: mayuranklekar/kub-first-app:latest
+          image: mayuranklekar/kub-first-app:2
