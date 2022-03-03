@@ -17,5 +17,3 @@ spec:
       containers:
         - name: second-node
           image: mayuranklekar/kub-first-app:latest
-          ports:
-            - containerPort: 3000
